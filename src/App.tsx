@@ -1,9 +1,9 @@
-import { Navigation } from './routes/Navigation';
+import { Navigation } from "./routes/Navigation";
 
-function App() {
+const App = () => {
   return (
     <>
-      <Navigation />
+      <Navigation/>
     </>
   );
 }
